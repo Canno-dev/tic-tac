@@ -1,0 +1,15 @@
+D:\Git\tic-tac\Chapter1\csLearn\bin\Debug\net10.0\csLearn.exe
+D:\Git\tic-tac\Chapter1\csLearn\bin\Debug\net10.0\csLearn.deps.json
+D:\Git\tic-tac\Chapter1\csLearn\bin\Debug\net10.0\csLearn.runtimeconfig.json
+D:\Git\tic-tac\Chapter1\csLearn\bin\Debug\net10.0\csLearn.dll
+D:\Git\tic-tac\Chapter1\csLearn\bin\Debug\net10.0\csLearn.pdb
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.AssemblyInfoInputs.cache
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.AssemblyInfo.cs
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.csproj.CoreCompileInputs.cache
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.sourcelink.json
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.dll
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\refint\csLearn.dll
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.pdb
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\csLearn.genruntimeconfig.cache
+D:\Git\tic-tac\Chapter1\csLearn\obj\Debug\net10.0\ref\csLearn.dll
