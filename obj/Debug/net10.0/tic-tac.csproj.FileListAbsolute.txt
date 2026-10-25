@@ -1,5 +1,0 @@
-D:\Git\tic-tac\obj\Debug\net10.0\tic-tac.GeneratedMSBuildEditorConfig.editorconfig
-D:\Git\tic-tac\obj\Debug\net10.0\tic-tac.AssemblyInfoInputs.cache
-D:\Git\tic-tac\obj\Debug\net10.0\tic-tac.AssemblyInfo.cs
-D:\Git\tic-tac\obj\Debug\net10.0\tic-tac.csproj.CoreCompileInputs.cache
-D:\Git\tic-tac\obj\Debug\net10.0\tic-tac.sourcelink.json
