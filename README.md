@@ -1,1 +1,1 @@
-Изменено на GitHub
+# Tic-Tac-Toe (main version)
